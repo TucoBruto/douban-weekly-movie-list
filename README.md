@@ -5,4 +5,4 @@
 
 源Feed：https://feedx.net/doubanmvweek
 
-RSS订阅链接：https://feed43.com/0312802081346706.xml
+RSS订阅链接：https://feed43.com/doubanweeklytop.xml
